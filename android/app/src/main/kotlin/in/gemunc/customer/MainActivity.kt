@@ -1,4 +1,4 @@
-package com.wrteam.eshop.pro
+package in.gemunc.customer
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 

@@ -1,9 +1,9 @@
 
-const String baseUrl =  "https://eshop-pro.eshopweb.store";
+const String baseUrl =  "https://msphilately.in";
 
 const String databaseUrl = "$baseUrl/api/";
 
-const appName = 'eShop Plus';
+const appName = 'GEMUNC';
 
 //Your package name
 const String androidPackageName = 'com.wrteam.eshop.pro';

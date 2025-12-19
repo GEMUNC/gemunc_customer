@@ -59,7 +59,7 @@
     </queries>
 
     <application
-        android:label="eShop Plus"
+        android:label="GEMUNC"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         android:theme="@style/LaunchTheme"
@@ -78,7 +78,7 @@
 
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_channel_id"
-            android:value="com.wrteam.eshop.pro" />
+            android:value="in.gemunc.customer" />
 
         <activity
             android:name=".MainActivity"
@@ -106,7 +106,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
                     android:scheme="https"
-                    android:host="eshop-pro.eshopweb.store" />
+                    android:host="msphilately.in" />
             </intent-filter>
 
             <!-- Launcher -->
