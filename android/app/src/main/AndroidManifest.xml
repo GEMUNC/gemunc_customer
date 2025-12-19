@@ -116,21 +116,23 @@
             <meta-data android:name="com.google.android.geo.API_KEY"
                android:value="ENTER_YOUR_MAP_KEY_HERE" />
                <!-- ENTER_YOUR_ANDROID_MAP_KEY_HERE -->
-    </application>
-    <!-- Required to query activities that can process text, see:
+
+
+ <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package="com.wrteam.eshop.pro">
          https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
-
          In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin. -->
-    <queries>
-        <intent>
-            <action android:name="android.intent.action.PROCESS_TEXT"/>
-            <data android:mimeType="text/plain"/>
-        </intent>
-    </queries>
-    <queries>
-        <intent>
-            <action android:name="android.speech.RecognitionService" />
-        </intent>
-    </queries>
+
+<queries>
+    <intent>
+        <action android:name="android.intent.action.PROCESS_TEXT"/>
+        <data android:mimeType="text/plain"/>
+    </intent>
+
+    <intent>
+        <action android:name="android.speech.RecognitionService" />
+    </intent>
+</queries>
+
+    </application> 
 </manifest>
