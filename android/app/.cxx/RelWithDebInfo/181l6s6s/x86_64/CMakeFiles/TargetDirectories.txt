@@ -1,0 +1,2 @@
+/Users/payalmam/Documents/projects/ezeeMart/eshopplus_customer/android/app/.cxx/RelWithDebInfo/181l6s6s/x86_64/CMakeFiles/edit_cache.dir
+/Users/payalmam/Documents/projects/ezeeMart/eshopplus_customer/android/app/.cxx/RelWithDebInfo/181l6s6s/x86_64/CMakeFiles/rebuild_cache.dir
