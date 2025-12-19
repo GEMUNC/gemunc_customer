@@ -81,7 +81,7 @@
             android:value="in.gemunc.customer" />
 
         <activity
-            android:name=".MainActivity"
+            android:name="in.gemunc.customer.MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
             android:theme="@style/NormalTheme"

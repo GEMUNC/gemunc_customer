@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.wrteam.eshop.eshop_plus"
+    namespace = "in.gemunc.customer"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
