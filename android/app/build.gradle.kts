@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "in.gemunc.customer"
+    namespace = "com.gemunc.customer"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

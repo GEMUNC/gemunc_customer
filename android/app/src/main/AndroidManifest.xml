@@ -78,10 +78,10 @@
 
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_channel_id"
-            android:value="in.gemunc.customer" />
+            android:value="com.gemunc.customer" />
 
         <activity
-            android:name="in.gemunc.customer.MainActivity"
+            android:name="com.gemunc.customer.MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
             android:theme="@style/NormalTheme"

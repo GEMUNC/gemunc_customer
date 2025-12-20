@@ -7,6 +7,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:920926031644:android:5b16a23307ef1ed53834d9",
+        "android_client_info": {
+          "package_name": "com.gemunc.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920926031644-v57cp8kp3o9idh0jf21h9pl6pgnc9hs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLOhSaLRDmcvpZ2bwqTEOyx1QaxPUM1C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920926031644-v57cp8kp3o9idh0jf21h9pl6pgnc9hs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:920926031644:android:3829e077c9bf23373834d9",
         "android_client_info": {
           "package_name": "com.wrteam.eshop.pro"
